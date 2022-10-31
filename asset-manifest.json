@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.035ee967.css",
-    "main.js": "/static/js/main.c5f10f3d.js",
+    "main.css": "/static/css/main.a93ab61a.css",
+    "main.js": "/static/js/main.2bdf9a12.js",
     "static/media/backgraund.jpg": "/static/media/backgraund.af415ab19705b3ede7d5.jpg",
     "static/media/s1.png": "/static/media/s1.456574d4b71e2f8533a9.png",
     "static/media/2.png": "/static/media/2.308776d12ea883e31e1a.png",
@@ -13,9 +13,11 @@
     "static/media/1.png": "/static/media/1.830ba9bf9815f00fc6d6.png",
     "static/media/dip.jpg": "/static/media/dip.abe1c270073c8a8db0c9.jpg",
     "static/media/bitrix1home.png": "/static/media/bitrix1home.7573388cd189592346a1.png",
+    "static/media/Dipak Pawar Resume.pdf": "/static/media/Dipak Pawar Resume.a5b5832ef9bef8d0df15.pdf",
     "static/media/s3.png": "/static/media/s3.3ba546229f81d7d65863.png",
     "static/media/bitrix2signup.png": "/static/media/bitrix2signup.e42a260fde4968afdc53.png",
     "static/media/s4.png": "/static/media/s4.10ebad9c993d84d78669.png",
+    "static/media/11.png": "/static/media/11.d488d6cefc7975bc2f59.png",
     "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
     "static/media/reactdi.png": "/static/media/reactdi.283bf42c605cfc49cf49.png",
     "static/media/mongodbdiv.png": "/static/media/mongodbdiv.e82388bff82e1d056f18.png",
@@ -38,11 +40,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.ac47c497a10891dc7bed.png",
     "static/media/bottom_header.svg": "/static/media/bottom_header.557f2c1f34d7ce96130a606181b16f56.svg",
     "index.html": "/index.html",
-    "main.035ee967.css.map": "/static/css/main.035ee967.css.map",
-    "main.c5f10f3d.js.map": "/static/js/main.c5f10f3d.js.map"
+    "main.a93ab61a.css.map": "/static/css/main.a93ab61a.css.map",
+    "main.2bdf9a12.js.map": "/static/js/main.2bdf9a12.js.map"
   },
   "entrypoints": [
-    "static/css/main.035ee967.css",
-    "static/js/main.c5f10f3d.js"
+    "static/css/main.a93ab61a.css",
+    "static/js/main.2bdf9a12.js"
   ]
 }
