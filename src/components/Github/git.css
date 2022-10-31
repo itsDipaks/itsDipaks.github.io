@@ -1,0 +1,55 @@
+.gihubstats{
+    padding: 0 3rem 0 3rem;
+    
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  padding-top: 3rem;
+}
+.gihubstats>h1{
+    margin: 5rem 0rem 0rem 0rem;
+    text-decoration: underline;
+}
+.stats{
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow:var(--black) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.stats>*{
+    width: 100%;
+margin: auto;
+
+}
+.graph{
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow:var(--black) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    margin-top: 30px;
+}
+.graph>img{
+    width: 100%;
+    margin: auto;
+    height: 300px;
+    
+}
+.gitdata{
+    padding: 1rem;
+
+    border-radius: 20px;
+    box-shadow:var(--black) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    width: 80%;
+text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.gitdata>img{
+    margin-top: 30px;
+    box-shadow: var(--black) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+  
+   
+}

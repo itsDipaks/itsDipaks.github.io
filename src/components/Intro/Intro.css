@@ -1,0 +1,144 @@
+.Intro {
+  
+  height: 97vh;
+  margin-top: 5rem;
+  margin-bottom: 200px;
+}
+
+.Intro>*{
+top: 20;
+
+}
+.namediv{
+  margin-top: 30px;
+}
+
+.namediv>:nth-child(1){
+font-size: 20px;
+margin-top: 30px;
+}
+.namediv>:nth-child(2){
+  font-size: 70px;
+}
+.namediv>:nth-child(3){
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.introicons{
+display: flex;
+width: 40%;
+margin-top: 50px;
+margin-left: 20px;
+justify-content: space-between;
+}
+.introicons>a>img{
+  width: 30px;
+
+
+}
+
+.btndiv{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+.btndiv>button{
+  border-radius: 50px;
+  padding: 10px 15px 10px 15px;
+  font-size: 14px;
+  /* margin-top: 50px; */
+}
+.contentdiv{
+  display: flex;
+  padding: 0rem 3.5rem;
+  justify-content: space-between;
+  width: 90%;
+  align-items: center;
+  margin: auto;
+  /* height: 500px; */
+  /* border: 1px solid red; */
+}
+
+.waveintro{
+  margin-top: -60px;
+  width: 100%;
+
+}
+.waveintro1{
+  margin-top: -350px;
+  overflow-y: hidden;
+  width: 100%;
+  transform: rotate(180deg) translateY(-100%);
+}
+
+.heroimg{
+  width: 300px;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 480px) {
+  .Intro {
+
+    height: 97VH;
+  }
+  .contentdiv{
+    padding: 0rem 1.5rem;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+  }
+
+  .namediv>:nth-child(1){
+    font-size: 10px;
+    margin-top: 10px;
+    }
+    .namediv>:nth-child(2){
+      font-size: 25px;
+    }
+    .namediv>:nth-child(3){
+      margin-top: 10px;
+      margin-left: 15px;
+      font-size: 10PX;
+    }
+    .heroimg{
+      width: 130px;
+    }
+    .introicons{
+      width: 80%;
+      margin-top: 10px;
+      margin-left: 20px;
+    
+      }
+      .introicons>img{
+        width: 14px;
+      }
+      .btndiv{
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        width: 80%;
+      }
+      .btndiv>button{
+        border-radius: 50px;
+        padding: 4px 5px 5px 5px;
+        font-size: 8px;
+        /* margin-top: 50px; */
+      }
+      .waveintro{
+        margin-top: -20px;
+        width: 100%;
+      
+      }
+      .waveintro1{
+        margin-top: -138px;
+        overflow-y: hidden;
+        width: 100%;
+        transform: rotate(180deg) translateY(-100%);
+      }
+      
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+}

@@ -1,0 +1,88 @@
+.footer {
+  display: flex;
+  align-items: center;
+  margin: -0.5rem -3.5rem;
+  position: relative;
+  margin-top: -2rem;
+}
+.f-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 15rem;
+  gap: 4rem;
+  /* left: 120px; */
+  color: white;
+}
+.f-icons {
+  
+}
+.hr{
+  color: red;
+  position: absolute;
+}
+.fouterdiv{
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+}
+.fdiv{
+  /* display: flex; */
+  width: 50%;
+  margin: auto;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.data{
+  display: flex;
+align-items: center;
+  width: 50%;
+  text-align: center;
+  /* border: 1px solid red; */
+justify-content: space-between;
+}
+.data>img{
+  width: 30px;
+}
+.data>h4{
+  font-size: 16px;
+/* border: 1px solid black; */
+align-items: center;
+text-align: start;
+margin-top: 10px;
+/* margin-left: -20px; */
+}
+.data1{
+  width: 30%;
+ 
+  /* border: 1px solid red; */
+
+  display: flex;
+ left: 20px;
+  margin: auto;
+justify-content: space-between;
+align-items: center;
+}
+.data1>img{
+  width: 
+  40px;
+  /* margin-left: 10px; */
+}
+.data1>h4{
+  font-size: 16px;
+  width: 80%;
+}
+
+
+p{
+  font-size: 12px;
+}
+@media screen and (max-width: 480px){
+  .f-content{
+    transform: scale(.5);
+  }
+}
