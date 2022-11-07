@@ -66,7 +66,7 @@ const Techstack = () => {
       <div className="techstack_div">
         <div className="Touterdiv">
           <img src={css} className="Timgs" alt="css" />
-          <h2>MongoDb</h2>
+          <h2>CSS</h2>
         </div>
         <div className="Touterdiv">
           <img src={html} className="Timgs" alt="html" />
@@ -82,7 +82,7 @@ const Techstack = () => {
         </div>
         <div className="Touterdiv">
           <img src={chakra} className="Timgs" alt="chakra" />
-          <h2>Node JS</h2>
+          <h2>Chakra Ui</h2>
         </div>
 
       </div>
@@ -114,31 +114,28 @@ const Techstack = () => {
       <div className="Toolsdiv">
         <div className="Touterdiv1">
           <img src={github} className="Timgs" alt="github" />
-          <h2>MongoDb</h2>
+          <h2>Github</h2>
         </div>
         <div className="Touterdiv1">
           <img src={git} className="Timgs" alt="git" />
-          <h2>Express</h2>
+          <h2>Git</h2>
         </div>
         <div className="Touterdiv1">
           <img src={jserver} className="Timgs" alt="jserver" />
-          <h2>React Js</h2>
+          <h2>Json Server</h2>
         </div>
         <div className="Touterdiv1">
           <img src={npm} className="Timgs" alt="npm" />
-          <h2>Node JS</h2>
+          <h2>Npm</h2>
         </div>
         <div className="Touterdiv1">
           <img src={netlifiy} className="Timgs" alt="netlifiy" />
-          <h2>Node JS</h2>
+          <h2>Netlifiy</h2>
         </div>
-        <div className="Touterdiv1">
-          <img src={redux} className="Timgs" alt="redux" />
-          <h2>Node JS</h2>
-        </div>
+      
         <div className="Touterdiv1">
           <img src={postman} className="Timgs" alt="postman" />
-          <h2>Node JS</h2>
+          <h2>Postman</h2>
         </div>
         <div className="Touterdiv1">
           <img src={reactdom} className="Timgs" alt="react-dom" />

@@ -31,7 +31,10 @@
   .button:hover {
     background: white;
     cursor: pointer;
-    border: 1px solid var(--orange);
+    transform: scale(1.2);
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 3/7, 64, 0.35) 0px -2px 6px 0px inset; */
+    transition: ease-out(2s);
+    /* border: 1px solid var(--orange); */
     color: var(--orange);
   }
   @media screen and (max-width: 480px) {
