@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.183f498d.css",
-    "main.js": "/static/js/main.20b7b812.js",
+    "main.css": "/static/css/main.eea00f9f.css",
+    "main.js": "/static/js/main.4830ae71.js",
     "static/media/backgraund.jpg": "/static/media/backgraund.af415ab19705b3ede7d5.jpg",
     "static/media/shop.png": "/static/media/shop.2cf6a63e4c217d4d3823.png",
     "static/media/nordstrom.png": "/static/media/nordstrom.6e69b68a6fd88e4bbefc.png",
@@ -9,7 +9,6 @@
     "static/media/dip.jpg": "/static/media/dip.abe1c270073c8a8db0c9.jpg",
     "static/media/Dipak Pawar Resume.pdf": "/static/media/Dipak Pawar Resume.a5b5832ef9bef8d0df15.pdf",
     "static/media/Bitriz24.png": "/static/media/Bitriz24.f0c3b2e1e89e21939fcc.png",
-    "static/media/11.png": "/static/media/11.d488d6cefc7975bc2f59.png",
     "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
     "static/media/reactdi.png": "/static/media/reactdi.283bf42c605cfc49cf49.png",
     "static/media/mongodbdiv.png": "/static/media/mongodbdiv.e82388bff82e1d056f18.png",
@@ -19,6 +18,7 @@
     "static/media/github111.png": "/static/media/github111.553c66159c5672f25df6.png",
     "static/media/git.jpg": "/static/media/git.abbe0463d41f97043f3d.jpg",
     "static/media/email111.png": "/static/media/email111.1e54691e345b9b5973e3.png",
+    "static/media/logo.png": "/static/media/logo.1fd90b9d88acc99ba3eb.png",
     "static/media/location.png": "/static/media/location.1eee268d0392888499ac.png",
     "static/media/telephone.png": "/static/media/telephone.fb244201058d6b0c101c.png",
     "static/media/chakra-ui.png": "/static/media/chakra-ui.e4c92a384394912925aa.png",
@@ -32,11 +32,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.ac47c497a10891dc7bed.png",
     "static/media/bottom_header.svg": "/static/media/bottom_header.557f2c1f34d7ce96130a606181b16f56.svg",
     "index.html": "/index.html",
-    "main.183f498d.css.map": "/static/css/main.183f498d.css.map",
-    "main.20b7b812.js.map": "/static/js/main.20b7b812.js.map"
+    "main.eea00f9f.css.map": "/static/css/main.eea00f9f.css.map",
+    "main.4830ae71.js.map": "/static/js/main.4830ae71.js.map"
   },
   "entrypoints": [
-    "static/css/main.183f498d.css",
-    "static/js/main.20b7b812.js"
+    "static/css/main.eea00f9f.css",
+    "static/js/main.4830ae71.js"
   ]
 }
