@@ -1,42 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.eea00f9f.css",
-    "main.js": "/static/js/main.4830ae71.js",
-    "static/media/backgraund.jpg": "/static/media/backgraund.af415ab19705b3ede7d5.jpg",
-    "static/media/shop.png": "/static/media/shop.2cf6a63e4c217d4d3823.png",
-    "static/media/nordstrom.png": "/static/media/nordstrom.6e69b68a6fd88e4bbefc.png",
-    "static/media/gif.gif": "/static/media/gif.091557f257ca6a9903ee.gif",
-    "static/media/dip.jpg": "/static/media/dip.abe1c270073c8a8db0c9.jpg",
-    "static/media/Dipak Pawar Resume.pdf": "/static/media/Dipak Pawar Resume.a5b5832ef9bef8d0df15.pdf",
+    "main.css": "/static/css/main.2c67babc.css",
+    "main.js": "/static/js/main.8a9dc4f1.js",
+    "static/media/shop.png": "/static/media/shop.456574d4b71e2f8533a9.png",
+    "static/media/nordstrom.png": "/static/media/nordstrom.308776d12ea883e31e1a.png",
+    "static/media/contactpage.gif": "/static/media/contactpage.091557f257ca6a9903ee.gif",
+    "static/media/heroimg.jpg": "/static/media/heroimg.abe1c270073c8a8db0c9.jpg",
     "static/media/Bitriz24.png": "/static/media/Bitriz24.f0c3b2e1e89e21939fcc.png",
     "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
     "static/media/reactdi.png": "/static/media/reactdi.283bf42c605cfc49cf49.png",
     "static/media/mongodbdiv.png": "/static/media/mongodbdiv.e82388bff82e1d056f18.png",
-    "static/media/phone-call.png": "/static/media/phone-call.6be800c1a8f0c7460ff0.png",
-    "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
     "static/media/github..png": "/static/media/github..553c66159c5672f25df6.png",
-    "static/media/github111.png": "/static/media/github111.553c66159c5672f25df6.png",
     "static/media/git.jpg": "/static/media/git.abbe0463d41f97043f3d.jpg",
-    "static/media/email111.png": "/static/media/email111.1e54691e345b9b5973e3.png",
-    "static/media/logo.png": "/static/media/logo.1fd90b9d88acc99ba3eb.png",
-    "static/media/location.png": "/static/media/location.1eee268d0392888499ac.png",
-    "static/media/telephone.png": "/static/media/telephone.fb244201058d6b0c101c.png",
     "static/media/chakra-ui.png": "/static/media/chakra-ui.e4c92a384394912925aa.png",
-    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/express.png": "/static/media/express.480330497e3bb2c6965f.png",
-    "static/media/linkedin11.png": "/static/media/linkedin11.6892b3ae328c7a1e055f.png",
     "static/media/nodejs.png": "/static/media/nodejs.a4713ff2ca054bf23788.png",
-    "static/media/gmail.png": "/static/media/gmail.a2f2146f929409405da0.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/css3.png": "/static/media/css3.5721a3928fe43de6baf8.png",
     "static/media/mongodb.png": "/static/media/mongodb.ac47c497a10891dc7bed.png",
-    "static/media/bottom_header.svg": "/static/media/bottom_header.557f2c1f34d7ce96130a606181b16f56.svg",
     "index.html": "/index.html",
-    "main.eea00f9f.css.map": "/static/css/main.eea00f9f.css.map",
-    "main.4830ae71.js.map": "/static/js/main.4830ae71.js.map"
+    "main.2c67babc.css.map": "/static/css/main.2c67babc.css.map",
+    "main.8a9dc4f1.js.map": "/static/js/main.8a9dc4f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.eea00f9f.css",
-    "static/js/main.4830ae71.js"
+    "static/css/main.2c67babc.css",
+    "static/js/main.8a9dc4f1.js"
   ]
 }
