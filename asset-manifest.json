@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.63911a4f.css",
-    "main.js": "/static/js/main.3e16a95d.js",
+    "main.css": "/static/css/main.501dd9b3.css",
+    "main.js": "/static/js/main.b2b8749f.js",
     "static/media/shop.png": "/static/media/shop.456574d4b71e2f8533a9.png",
     "static/media/nordstrom.png": "/static/media/nordstrom.308776d12ea883e31e1a.png",
     "static/media/contactpage.gif": "/static/media/contactpage.091557f257ca6a9903ee.gif",
     "static/media/FarmBuddy.png": "/static/media/FarmBuddy.2f5f951046fe9b30af91.png",
     "static/media/Dipak_Pawar_Resume.pdf": "/static/media/Dipak_Pawar_Resume.59174eca31fda590fbbf.pdf",
     "static/media/heroimg.jpg": "/static/media/heroimg.abe1c270073c8a8db0c9.jpg",
-    "static/media/gifg.gif": "/static/media/gifg.f5edff63d20d678d88da.gif",
     "static/media/Bitriz24.png": "/static/media/Bitriz24.f0c3b2e1e89e21939fcc.png",
-    "static/media/logo.png": "/static/media/logo.c5c6cb92c2d81d1112f1.png",
     "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
     "static/media/reactdi.png": "/static/media/reactdi.283bf42c605cfc49cf49.png",
     "static/media/mongodbdiv.png": "/static/media/mongodbdiv.e82388bff82e1d056f18.png",
@@ -22,11 +20,11 @@
     "static/media/css3.png": "/static/media/css3.5721a3928fe43de6baf8.png",
     "static/media/mongodb.png": "/static/media/mongodb.ac47c497a10891dc7bed.png",
     "index.html": "/index.html",
-    "main.63911a4f.css.map": "/static/css/main.63911a4f.css.map",
-    "main.3e16a95d.js.map": "/static/js/main.3e16a95d.js.map"
+    "main.501dd9b3.css.map": "/static/css/main.501dd9b3.css.map",
+    "main.b2b8749f.js.map": "/static/js/main.b2b8749f.js.map"
   },
   "entrypoints": [
-    "static/css/main.63911a4f.css",
-    "static/js/main.3e16a95d.js"
+    "static/css/main.501dd9b3.css",
+    "static/js/main.b2b8749f.js"
   ]
 }
