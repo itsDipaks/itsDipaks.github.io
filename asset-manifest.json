@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.501dd9b3.css",
+    "main.css": "/static/css/main.6916207e.css",
     "main.js": "/static/js/main.b2b8749f.js",
     "static/media/shop.png": "/static/media/shop.456574d4b71e2f8533a9.png",
     "static/media/nordstrom.png": "/static/media/nordstrom.308776d12ea883e31e1a.png",
@@ -20,11 +20,11 @@
     "static/media/css3.png": "/static/media/css3.5721a3928fe43de6baf8.png",
     "static/media/mongodb.png": "/static/media/mongodb.ac47c497a10891dc7bed.png",
     "index.html": "/index.html",
-    "main.501dd9b3.css.map": "/static/css/main.501dd9b3.css.map",
+    "main.6916207e.css.map": "/static/css/main.6916207e.css.map",
     "main.b2b8749f.js.map": "/static/js/main.b2b8749f.js.map"
   },
   "entrypoints": [
-    "static/css/main.501dd9b3.css",
+    "static/css/main.6916207e.css",
     "static/js/main.b2b8749f.js"
   ]
 }
