@@ -2,8 +2,8 @@ import React, {useState} from "react";
 import {Link} from "react-scroll";
 import "./Home.css";
 import paint2 from "../../assets/Intro/paint6.png";
-import dipak from "../../assets/Intro/DipakPawar.jpg";
-import resum from "../../assets/Intro/fp03_059 Dipak Pawar Resume.pdf";
+import dipak from "../../assets/Intro/DipakHalfsleev.png";
+import resum from "../../assets/Intro/fp03_059-Dipak-Pawar.pdf";
 import {AiOutlineCloseCircle} from "react-icons/ai";
 import {IoIosArrowDropdown} from "react-icons/io";
 import Typewriter from "typewriter-effect";
@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="backgraund flex justify-center  bg-no-repeat  bg-cover h-screen md:bg-center "
+        className="backgraund flex justify-center bg-gradient-to-r fbg-gradient-to-t from-gray-300 to-white bg-no-repeat  bg-cover h-screen md:bg-center "
         id="Home"
       >
         <div className="flex flex-col items-center ">

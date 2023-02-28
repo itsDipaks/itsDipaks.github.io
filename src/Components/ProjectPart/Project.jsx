@@ -24,8 +24,8 @@ const Project = () => {
         "Redux",
         "JWT",
       ],
-      githubLink: "",
-      liveLink: "",
+      githubLink: "https://github.com/itsDipaks/Farm-Buddy.com",
+      liveLink: "https://pharmbuddy.vercel.app/",
       type: "FullStack",
     },
     {
@@ -42,8 +42,8 @@ const Project = () => {
         "MongoDB",
         "Redux",
       ],
-      githubLink: "",
-      liveLink: "",
+      githubLink: "https://github.com/amitchouhan948/possible-temper-2642",
+      liveLink: "https://bitrix24in.netlify.app/",
       type: "FullStack",
     },
     {
@@ -52,8 +52,8 @@ const Project = () => {
       projectDescription:
         "Shop.com is an American E-commerce website that deals in clothing, beauty, electronics, home-appliances, etc",
       techstackUsed: ["HTML", "CSS", "Javascript", "Local-Storage"],
-      githubLink: "",
-      liveLink: "",
+      githubLink: "https://github.com/Anantk05/Shop.com-Clone",
+      liveLink: "https://shop-com-clone-7.netlify.app/",
       type: "Frontend",
     },
     {
@@ -62,8 +62,8 @@ const Project = () => {
       projectDescription:
         "Nordstrom.com is a new kind of shopping comparison site that offers the most comprehensive shopping experience on the web. ",
       techstackUsed: ["HTML", "CSS", "Javascript", "Local-Storage"],
-      githubLink: "",
-      liveLink: "",
+      githubLink: "https://github.com/itsDipaks/NordStrom.com",
+      liveLink: "https://gilded-axolotl-233746.netlify.app/",
       type: "Frontend",
     },
     {
@@ -72,8 +72,8 @@ const Project = () => {
       projectDescription:
         "DmTipper in the business of fabricating custom equipments for Automobile and construction sector industries, ",
       techstackUsed: ["REACT", "React-Router-Dom", "Tailwind-Css"],
-      githubLink: "",
-      liveLink: "",
+      githubLink: "https://github.com/itsDipaks/Deshmukh-Manufacturingweb",
+      liveLink: "https://dmtipperpvt.netlify.app/",
       type: "Freelance",
     },
   ];
@@ -102,7 +102,7 @@ const Project = () => {
           {/* <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">
           Projects
         </h1> */}
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          <p className="lg:w-1/3 mx-auto leading-relaxed font-semibold text-base p-2 mb-4 mt-4 bg-rose-400 rounded-full"  data-aos="zoom-in-down">
             These are the Projects I've worked on
           </p>
         </div>
@@ -149,10 +149,10 @@ const Project = () => {
                     </p>
 
                     <div className="flex justify-between w-1/2  m-auto mt-2">
-                      <a href="">
+                      <a href={el.githubLink} target="_blank">
                         <BsGithub className="w-6 h-6  text-rose-400" />
                       </a>
-                      <a href="">
+                      <a href={el.liveLink}  target="_blank">
                         <VscLiveShare className="w-6 h-6 text-rose-400" />
                       </a>
                     </div>

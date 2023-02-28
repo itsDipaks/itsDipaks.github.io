@@ -100,16 +100,18 @@ const Techstack = () => {
 
   return (
     <div id="Techstack"> 
-      <h1 className="text-4xl  text-black"  data-aos="fade-right">
+      <h1 className="text-4xl  text-black sm:m-2 lg:p-4 lg:mt-4 sm:mt-14"  data-aos="fade-right">
       Techstack
       </h1>
       <span className="inline-block h-1 sm:w-1/12 mb-8 rounded bg-rose-500 mt-4 "  data-aos="fade-left"></span>
+      
+      
       <section className="text-gray-600 body-font bg-gradient-to-r lg:m-14 sm:m-2 from-gray-100 via-gray-200 to-gray-100 relative ">
-        <img src={backprint} className="absolute top-0 lg:left-1/3 sm:left-1/5 lg:pl-16 sm:pl-14 " alt="" />
+        <img src={backprint} className="absolute top-0 lg:left-1/3 sm:left-1/5 lg:pl-16 sm:pl-14 blur-sm " alt="" />
         <div className="container sm:px-2 px-5 py-8 mx-auto ">
           <div className="flex flex-col text-center w-full mb-4  "  >
           </div>
-          <h1 className="py-4 text-2xl text-black font-bold" data-aos="zoom-in-down">Frontend Skills</h1>
+          <h1 className="py-2 lg:text-2xl text-black font-semibold bg-rose-400 rounded-full lg:w-1/4 m-auto mb-4 mt-14 sm:w-1/2 sm:text-lg" data-aos="zoom-in-down">Frontend Skills</h1>
           <div className="flex flex-wrap -m-2 m-auto ">
            
             {teckstack &&
@@ -130,7 +132,7 @@ const Techstack = () => {
                 </div>
               ))}
           </div>
-          <h1 className="py-4 text-2xl font-bold text-black"  data-aos="zoom-in-down">Backend Skills </h1>
+          <h1 className="py-2 lg:text-2xl text-black font-semibold bg-rose-400 rounded-full lg:w-1/4 m-auto mb-4  mt-14  sm:w-1/2 sm:text-lg"  data-aos="zoom-in-down">Backend Skills </h1>
           <div className="flex flex-wrap -m-2 m-auto">
            
             {Backend &&
@@ -151,7 +153,7 @@ const Techstack = () => {
                 </div>
               ))}
           </div>
-          <h1 className="py-4 text-2xl font-bold text-black" data-aos="zoom-in-down">Tools I Use </h1>
+          <h1 className="py-2 lg:text-2xl text-black font-semibold bg-rose-400 rounded-full lg:w-1/4 m-auto mb-4 mt-14 sm:w-1/2 sm:text-lg" data-aos="zoom-in-down">Tools I Use </h1>
           <div className="flex flex-wrap -m-2 m-auto">
            
             {Other &&

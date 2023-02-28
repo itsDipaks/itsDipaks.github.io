@@ -2,6 +2,7 @@ import Aos from "aos";
 import { useEffect } from "react";
 import "./App.css";
 import About from "./Components/AboutPart/About";
+import CourseAchivments from "./Components/Achivments/CourseAchivments";
 import Contact from "./Components/ContactPart/Contact";
 import Fotter from "./Components/FotterPart/Fotter";
 import Github from "./Components/GithubPart/Github";
@@ -26,6 +27,7 @@ function App() {
       <ScrolltoTop/>
       <About />
       <Techstack />
+      <CourseAchivments/>
       <Project />
       <Github />
       {/* <Testimonials /> */}
