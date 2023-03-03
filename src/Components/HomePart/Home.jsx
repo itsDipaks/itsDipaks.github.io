@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="backgraund flex justify-center bg-gradient-to-r fbg-gradient-to-t from-gray-300 to-white bg-no-repeat  bg-cover h-screen md:bg-center "
+        className="backgraund flex justify-center  bg-gradient-to-r fbg-gradient-to-t from-gray-300 to-white bg-no-repeat  bg-cover h-screen md:bg-center "
         id="Home"
       >
         <div className="flex flex-col items-center ">
@@ -60,6 +60,7 @@ const Home = () => {
                     <li
                       key={li.name}
                       className="hover:underline underline-offset-4  decoration-2 decoration-rose-500 cursor-pointer  py-4 rounded-lg px-2 md:px-5"
+                      data-aos="zoom-in-down"
                     >
                       <Link to={li.to} spy={true} smooth={true} offset={-50}>
                         {li.name}
@@ -67,11 +68,12 @@ const Home = () => {
                     </li>
                   ))}
 
-                <li className="hover:underline-offset-4 decoration-2 decoration-cyan-500 py-2 border-2 border-rose-400 cursor-pointer lg:mt-4 rounded-lg lg:px-8 sm:px-4 sm:mb-4 md:px-8 cursor-pointer">
+                <li className="hover:underline-offset-4 decoration-2 decoration-cyan-500 py-2 border-2 border-rose-400 cursor-pointer lg:mt-4 rounded-lg lg:px-8 sm:px-4 sm:mb-4 md:px-8 cursor-pointer"   data-aos="zoom-in-down">
                   <a
                     href="https://drive.google.com/file/d/1MTz7r6B5jMDNIEegsuHlVOmTiEUFdcVF/view?usp=share_link"
                     rel="noreferrer"
                     target="_blank"
+                  
                   >
                     Resume
                   </a>
@@ -82,14 +84,14 @@ const Home = () => {
 
           <div className="absolute flex w-full lg:top-16 justify-between items-center flex-wrap sm:top-24   align-center h-64 my-2 py-2 ">
             <div className="lg:w-1/2 sm:w-full  ">
-              <h1 className="lg:text-xl font-medium sm:text-sm tracking-wider ">
+              <h1 className="lg:text-xl font-medium sm:text-sm tracking-wider "   data-aos="fade-left">
                 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆
               </h1>
               <span className="inline-block h-1 sm:w-1/5  rounded bg-rose-500  "></span>
               <div className="flex flex-col text-black mt-3">
-                <h1 className="lg:text-4xl sm:text-2xl md:text-[50px] font-semibold">
+                <h1 className="lg:text-4xl sm:text-2xl md:text-[50px] font-semibold" data-aos="fade-up">
                   Hello I'm{" "}
-                  <span className="lg:text-7xl sm:text-4xl"> 𝑫𝒊𝒑𝒂𝒌 𝑷𝒂𝒘𝒂𝒓 </span>
+                  <span className="lg:text-7xl sm:text-4xl"  > 𝑫𝒊𝒑𝒂𝒌 𝑷𝒂𝒘𝒂𝒓 </span>
                 </h1>
                 <p className="text-xl text-rose-800 mt-4 md:mt-4 tracking-wide">
                   <Typewriter
@@ -106,7 +108,7 @@ const Home = () => {
                 </p>
               </div>
 
-              <h1 className="border-2 border-rose-400 lg:w-1/3 sm:w-1/2 rounded-2xl m-auto p-2 mt-4">
+              <h1 className="border-2 border-rose-400 lg:w-1/3 sm:w-1/2 rounded-2xl m-auto p-2 mt-4" data-aos="fade-up">
                 <a
                   href={resum}
                   className="lg:text-lg sm:text-md"
@@ -122,11 +124,13 @@ const Home = () => {
                 src={paint2}
                 className="z-14 w-full h-full lg:relative sm:absolute"
                 alt=""
+                data-aos="zoom-in"
               />
               <img
                 src={dipak}
                 className="z-18 lg:top-20 lg:w-1/5 lg:h-11/12  sm:w-full sm:top-14 sm:left-24  lg:left-2/3 rounded-full lg:absolute  sm:relative sm:right-1/2"
                 alt=""
+                data-aos="zoom-in"
               />
             </div>
           </div>

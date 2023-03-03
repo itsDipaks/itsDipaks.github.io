@@ -4,7 +4,7 @@ import GithubCalender from "./GithubCalender";
 const Github = () => {
   return (
     <div id="Github" className=" ">
-      <h1 className="text-4xl text-black pt-8" data-aos="fade-right">
+      <h1 className="text-4xl text-black pt-8 font-semibold" data-aos="fade-right">
         Github Contribution
       </h1>
       <span

@@ -2,8 +2,8 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className=" rounded-2xl  sm:m-2 lg:p-4 lg:mt-4 sm:mt-14" id="About">
-      <h1 className="text-4xl  text-black " data-aos="fade-right">
+    <div className=" rounded-2xl w-11/12 m-auto  lg:p-4 lg:mt-4 sm:mt-14" id="About">
+      <h1 className="text-3xl  text-black  font-semibold" data-aos="fade-right">
         About Me,
       </h1>
       <span

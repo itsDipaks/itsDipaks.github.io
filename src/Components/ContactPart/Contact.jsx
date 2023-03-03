@@ -28,7 +28,7 @@ const Contact = () => {
 
   return (
     <div className="" id="Contact">
-      <h1 className="text-4xl text-black pt-8" data-aos="fade-right">
+      <h1 className="text-4xl text-black pt-8 font-semibold" data-aos="fade-right">
         Get in Touch
       </h1>
       <span

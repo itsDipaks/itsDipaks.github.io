@@ -90,7 +90,7 @@ const Project = () => {
   };
   return (
     <div className="w-full mt-14  " id="Projects">
-      <h1 className="text-4xl text-black " data-aos="fade-right">
+      <h1 className="text-4xl text-black font-semibold" data-aos="fade-right">
         Projects
       </h1>
       <span

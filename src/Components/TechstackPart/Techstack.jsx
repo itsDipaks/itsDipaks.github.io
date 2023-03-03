@@ -99,11 +99,11 @@ const Techstack = () => {
  ]
 
   return (
-    <div id="Techstack"> 
-      <h1 className="text-4xl  text-black sm:m-2 lg:p-4 lg:mt-4 sm:mt-14"  data-aos="fade-right">
+    <div id="Techstack" className=""> 
+      <h1 className="text-4xl  text-black lg:p-4 lg:mt-4 sm:mt-14 font-semibold"    data-aos="fade-right">
       Techstack
       </h1>
-      <span className="inline-block h-1 sm:w-1/12 mb-8 rounded bg-rose-500 mt-4 "  data-aos="fade-left"></span>
+      <span className="inline-block h-1 sm:w-1/12 mb-8 rounded bg-rose-500  "  data-aos="fade-left"></span>
       
       
       <section className="text-gray-600 body-font bg-gradient-to-r lg:m-14 sm:m-2 from-gray-100 via-gray-200 to-gray-100 relative ">

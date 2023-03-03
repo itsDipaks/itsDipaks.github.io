@@ -1,5 +1,5 @@
 import Aos from "aos";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import About from "./Components/AboutPart/About";
 import CourseAchivments from "./Components/Achivments/CourseAchivments";
@@ -10,10 +10,17 @@ import Home from "./Components/HomePart/Home";
 import Project from "./Components/ProjectPart/Project";
 import ScrolltoTop from "./Components/ScrollTop/ScrolltoTop";
 import Techstack from "./Components/TechstackPart/Techstack";
-// import Testimonials from "./Components/TestimonialsPart/Testimonials";
+import Testimonials from "./Components/TestimonialsPart/Testimonials";
 
 function App() {
+
+  let [preloader,setpreloader]=useState(true)
+
   useEffect(() => {
+    setpreloader(true)
+    setTimeout(()=>{
+setpreloader(false)
+    },2000)
     Aos.init({
       offset: 50,
       duration: 600,
@@ -23,6 +30,8 @@ function App() {
   }, []);
   return (
     <div className="App">
+
+      {preloader ? <span class="loader"></span>:<div>
       <Home />
       <ScrolltoTop/>
       <About />
@@ -33,6 +42,9 @@ function App() {
       {/* <Testimonials /> */}
       <Contact />
       <Fotter />
+
+      </div> }
+   
     </div>
   );
 }
