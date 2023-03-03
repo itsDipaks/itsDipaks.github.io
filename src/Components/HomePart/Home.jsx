@@ -91,7 +91,7 @@ const Home = () => {
               <div className="flex flex-col text-black mt-3">
                 <h1 className="lg:text-4xl sm:text-2xl md:text-[50px] " data-aos="fade-up">
                   Hello I'm{" "}
-                  <span className="nametitle lg:text-7xl sm:text-3xl text-bold text-gray-700"  > Dipak Pawar </span>
+                  <span className="nametitle lg:text-6xl sm:text-3xl text-bold text-gray-700"  > Dipak Pawar </span>
                 </h1>
                 <p className="text-xl text-rose-800 mt-4 md:mt-4 tracking-wide">
                   <Typewriter
