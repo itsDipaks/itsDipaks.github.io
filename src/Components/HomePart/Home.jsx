@@ -41,7 +41,7 @@ const Home = () => {
             }
           >
             <div className="flex md:flex-row flex-col justify-between items-center md:items-start">
-              <h1 className="herofont py-4 text-4xl  font-bold px-10 text-rose-700">
+              <h1 className={nvbsrscroll ?"herofont py-4 text-4xl  font-bold px-10 text-white":"herofont py-4 text-4xl  font-bold px-10 text-rose-700"}>
                Dipak_pawar
               </h1>
               <div
