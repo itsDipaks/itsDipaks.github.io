@@ -13,7 +13,6 @@ const About = () => {
       <section className="text-gray-600 bg-black rounded-2xl body-font">
         <div className=" lg:px-5 lg:py-24 mx-auto sm:px-1 sm:py-8">
           <div className="xl:w-9/12 lg:w-3/4 w-full mx-auto text-center">
-            {/* <h1 className="text-4xl mb-8 text-white" data-aos="zoom-in">About Me,</h1> */}
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
